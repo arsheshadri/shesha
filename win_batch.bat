@@ -1,1 +1,1 @@
-ipconfig>test.log
+testing
